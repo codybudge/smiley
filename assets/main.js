@@ -1,12 +1,12 @@
 function CatLady(){
     var cats = [{
-        name = "Silver",
-        tolerance = 3,
-        img = "//palcehold.it/200x100"
+        name: "Silver",
+        tolerance: 3,
+        img: "//palcehold.it/200x100"
     },{
-        name = "Frank",
-        tolerance = 5,
-        img = "//placehold.it/200x100"
+        name: "Frank",
+        tolerance: 5,
+        img: "//placehold.it/200x100"
     }]
     function drawCtas(){
         var template = `
